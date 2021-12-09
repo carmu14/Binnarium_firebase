@@ -9,7 +9,7 @@ function App() {
   const [id, setId] = React.useState('')
 
   React.useEffect (() => {
-    //funcion para obtenr datos
+    //funcion para obtenr datos de la bd
     const obtenerDatos = async () => {
 
       try {
