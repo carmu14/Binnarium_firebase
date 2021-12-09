@@ -39,7 +39,7 @@ function App() {
       console.log("Esta vacio")
       return
     }
-    //Agregar documentos
+    //Agregar documentos a la db
     try {
 
       const db = firebase.firestore()
