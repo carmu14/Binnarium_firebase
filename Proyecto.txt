@@ -1,1 +1,4 @@
-El proyecto se alojo en la dirección https://crudc-binnarium.firebaseapp.com/
+El proyecto fue realizado en base a un proyecto de react
+
+El proyecto se alojo en la dirección:
+https://crudc-binnarium.firebaseapp.com/
